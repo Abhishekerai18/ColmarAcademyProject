@@ -21,4 +21,4 @@ Open the index.html file in your web browser to view the website.
 ### Credits
 Images and videos used in the website are sourced from various royalty-free image and video repositories.
 ### License
-This project is licensed under the MIT License.
+This project is licensed free (No any requirment of license.
