@@ -2,7 +2,7 @@
 
 ## This repository contains the source code for the Colmar Academy website. Colmar Academy is a fictional educational institution. The website is designed to showcase various courses, events, and information about the academy.
 
-###Features <br>
+### Features <br>
 Responsive design: The website is designed to be accessible on various devices, including desktops, tablets, and mobile phones. <br>
 Navigation: Users can navigate through different sections of the website easily using the navigation menu. <br>
 Course Information: Information about various courses offered by Colmar Academy is available on the website. <br>
@@ -12,7 +12,7 @@ Thesis Exhibit: The website features a section dedicated to showcasing thesis ex
 HTML5
 CSS3
 JavaScript
-How to Use
+## How to Use
 ### Clone the repository to your local machine:
 bash
 Copy code
