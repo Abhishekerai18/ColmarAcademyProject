@@ -16,7 +16,7 @@ JavaScript
 ### Clone the repository to your local machine:
 bash
 Copy code
-git clone https://github.com/your-username/colmar-academy.git
+git clone (https://github.com/Abhishekerai18/ColmarAcademyProject)
 Open the index.html file in your web browser to view the website.
 ### Credits
 Images and videos used in the website are sourced from various royalty-free image and video repositories.
